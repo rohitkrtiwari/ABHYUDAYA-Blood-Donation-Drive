@@ -7,8 +7,11 @@
 <img src="images/home.png">
 
 
-## WHAT WE DO
+## **WHAT WE DO**
 <img src="images/WHAT_WE_DO.png">
 
-## HOW IT WORKS
+<br>
+<br>
+
+## **HOW IT WORKS**
 <img src="images/WHAT_WE_DO.png">
