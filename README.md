@@ -8,10 +8,7 @@
 
 
 ## WHAT WE DO
-<img src="WHAT_WE_DO.png">
+<img src="images/WHAT_WE_DO.png">
 
 ## HOW IT WORKS
-<img src="WHAT_WE_DO.png">
-
-## WHAT WE DO
-<img src="WHAT_WE_DO.png">
+<img src="images/WHAT_WE_DO.png">
