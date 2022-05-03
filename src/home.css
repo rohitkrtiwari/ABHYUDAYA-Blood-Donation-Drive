@@ -1,0 +1,155 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap');
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #333;
+  font-size: 1rem;
+  font-family: 'Poppins', sans-serif !important;
+}
+
+.bg-black{
+	background-color: black;
+}
+
+.f-color{
+	color: #9B5DE5;
+}
+
+.f-biggest{
+	font-size: 60px;
+	font-weight: 600;
+}
+
+.text-base{
+	font-size: 18px !important;
+}
+
+.about_section{
+	padding: 64px 250px;
+	background-color: #cccccc;
+}
+
+.button-primary{
+	background: #fd362a;
+    color: white;
+    padding: 10px 16px;
+    display: block;
+    border: 1px solid #fd362a;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+.button-secondary{
+    padding: 10px 16px;
+    border: 1px solid #fd362a;
+    display: block;
+    text-decoration: none;
+    color: black;
+    cursor: pointer;
+}
+
+.button-primary:hover{
+	background: #b92c24;
+    color: white;
+    padding: 10px 16px;
+    border: #fd362a;
+    text-decoration: none;
+}
+
+.button-secondary:hover{
+    padding: 10px 16px;
+    background-color: #fd362a;
+    border: 1px solid #fd362a;
+    text-decoration: none;
+    color: white;
+}
+
+.button-primary_navbar{
+	background: #fd362a;
+    color: white;
+    padding: 6px 16px;
+    display: block;
+    border: 1px solid #fd362a;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+.button-secondary_navbar{
+    padding: 6px 16px;
+    border: 1px solid #fd362a;
+    display: block;
+    text-decoration: none;
+    color: black;
+    cursor: pointer;
+}
+
+.button-primary_navbar:hover{
+	background: #b92c24;
+    color: white;
+    padding: 6px 16px;
+    border: 1px solid #fd362a;
+    text-decoration: none;
+}
+
+.button-secondary_navbar:hover{
+    padding: 6px 16px;
+    background-color: #fd362a;
+    border: 1px solid #fd362a;
+    text-decoration: none;
+    color: white;
+}
+
+.logo{
+	min-width: 70px;
+}
+
+.main_img{
+	min-width: 250px;
+}
+
+.resp_w-75{
+    width: 75% !important;
+}
+
+@media only screen and (max-width: 1000px) {
+
+	.tab-resp_mb-3{
+		margin-bottom: 1rem!important;
+	}
+
+	.about_section{
+		background-color: #cccccc;
+		padding: 45px 30px;
+	}
+
+}
+
+@media only screen and (max-width: 525px) {
+
+	.f-biggest{
+		font-size: 45px;
+	}
+
+
+	.resp_mb-35{
+		margin-bottom: 35px;
+	}
+
+	.resp_px-5{
+		padding-right: 3rem!important;
+    	padding-left: 3rem!important;
+	}
+
+	.resp_mb-3{
+		margin-bottom: 1rem!important;
+	}
+
+    .resp_w-75{
+        width: 100% !important;
+    }
+
+
+}
