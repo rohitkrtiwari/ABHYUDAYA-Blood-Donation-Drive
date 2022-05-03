@@ -6,6 +6,7 @@
 
 <img src="images/home.png">
 
+<br><br>
 
 ## **WHAT WE DO**
 <img src="images/WHAT_WE_DO.png">
