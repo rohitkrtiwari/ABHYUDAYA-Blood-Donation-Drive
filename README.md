@@ -5,3 +5,13 @@
 * This is yet another initiative where patient in need of Blood and recovered patients willing to donate Blood can come together under one platform and connect with each other.
 
 <img src="images/home.png">
+
+
+## WHAT WE DO
+<img src="WHAT_WE_DO.png">
+
+## HOW IT WORKS
+<img src="WHAT_WE_DO.png">
+
+## WHAT WE DO
+<img src="WHAT_WE_DO.png">
